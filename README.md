@@ -1,4 +1,4 @@
-Built for Hippocratic AI by Aditi Soni
+Built by Aditi Soni
 
 # LITTLE PLUM : YOUR BEDTIME STORY FRIEND
 An AI-powered storytelling system for children aged 5 to 10, featuring built-in quality control and adaptive handling of medical content.
